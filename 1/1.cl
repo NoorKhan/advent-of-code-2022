@@ -31,5 +31,3 @@
     rolling-sum))
 
 (get-top-n-most-calories *total-calories* 3)
-
-
